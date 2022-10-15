@@ -1,0 +1,4 @@
+weather-denmark.pkl filter=lfs diff=lfs merge=lfs -text
+weather-denmark.pkl“ filter=lfs diff=lfs merge=lfs -text
+weather-data/weather-denmark.csv” filter=lfs diff=lfs merge=lfs -text
+weather-data/weather-denmark.csv filter=lfs diff=lfs merge=lfs -text
